@@ -1,0 +1,7 @@
+# Testing Header 1
+## testing Header 2
+### Testing Header 3
+#### Testing Header 4
+##### Testing Header 5
+###### Testing Header 6
+I have learned how to apply different heading styles to a file using markdown.
