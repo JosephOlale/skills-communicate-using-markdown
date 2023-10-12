@@ -10,3 +10,7 @@ I have learned how to apply different heading styles to a file using markdown.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Github onboarding process
+- [x] Being asigned to Biling
+- [x] Introduce myself to Security & Revenue Support
+- [ ] Learn more skills
