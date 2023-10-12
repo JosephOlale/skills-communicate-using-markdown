@@ -5,3 +5,4 @@
 ##### Testing Header 5
 ###### Testing Header 6
 I have learned how to apply different heading styles to a file using markdown.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
